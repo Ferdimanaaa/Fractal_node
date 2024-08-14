@@ -1,7 +1,4 @@
 # Fractalnode
-## Join Channel Telegram
-
-https://t.me/airdrop_node
 
 # Fractal Bitcoin Node Setup Guide
 
@@ -129,9 +126,7 @@ https://app.infinityai.network?ref-code=45008a0c4f0e7939
 
 https://fractal.unisat.io
 
-## Join channel TELEGRAM for diskusi and information
-
-https://t.me/airdrop_node
+# Join my grup private wa: mgsky testnet hunter
 
 ##thanks
 
